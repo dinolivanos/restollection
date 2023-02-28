@@ -1,0 +1,8 @@
+wheel
+flake8
+pylint
+pylint-django
+jupyter-console
+isort
+black
+pytest
